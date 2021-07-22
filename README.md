@@ -1,5 +1,6 @@
 - 👋 Hi,call me krishi.
 - 👀 I’m interested in coding and problem solving situations!
+- 👯 Currently a front end devoloper.
 - 🌱 I’m currently learning javascript & c.
 - 📫 wanna be a full Stack devoloper. 
 - 💞️ I’m looking to collaborate on software devoloping/devoloper jobs & internships.
