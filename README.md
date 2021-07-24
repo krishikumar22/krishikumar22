@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning javascript & c.
 - 📫 wanna be a full Stack devoloper. 
 - 💞️ I’m looking to collaborate on software devoloping/devoloper jobs & internships.
-- 📫 How to reach me email:[krishikruler@gmail.com], instagram: Krishi_bhai).
+- 📫 reach me via email:[krishikruler@gmail.com], instagram: Krishi_bhai).
 
